@@ -49,3 +49,7 @@ Japanese professional baseball team's pennant race code by python
 ■詳細要件
 - パリーグでもペナントレースを実施する。ペナント実施上の条件は、5-4時点でのセリーグの仕様と全く同じにする。
 - 年間140試合中18試合を交流戦とし、セ・パ両方のチームがお互いに3戦*6チーム分対戦する。それに際し、交流戦での優勝チームも決定する。
+
+# 結果
+
+<img width="271" alt="スクリーンショット 2019-10-10 18 05 38" src="https://user-images.githubusercontent.com/55470250/66554875-afdbad80-eb88-11e9-8712-0d3488d459a6.png">
